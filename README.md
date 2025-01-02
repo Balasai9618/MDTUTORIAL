@@ -11,3 +11,4 @@ Heading level 1
 Heading level 2
 ---------------
 # Here's a Heading
+# Heading
