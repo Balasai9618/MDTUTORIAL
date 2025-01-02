@@ -18,3 +18,5 @@ Heading level 2
 
 
 ![my screenshot](Screenshot (6).png)
+
+![screenshot]{pic.png}
