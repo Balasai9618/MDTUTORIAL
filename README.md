@@ -12,3 +12,4 @@ Heading level 2
 ---------------
 # Here's a Heading
 # Heading
+<p>I really like using Markdown.</p>
